@@ -1,6 +1,6 @@
-# tf2-checkpoint-variable-rename (originally forked from https://gist.github.com/batzner/7c24802dd9c5e15870b4b56e22135c96)
+# tf2-checkpoint-variable-rename 
 
-A CLI to rename variables from a checkpoint model (updated for Tensorflow 2)
+A CLI to rename variables from a checkpoint model updated for Tensorflow 2 - (originally forked from https://gist.github.com/batzner/7c24802dd9c5e15870b4b56e22135c96)
 
 # Usage:
 
